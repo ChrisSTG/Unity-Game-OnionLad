@@ -1,0 +1,5 @@
+A & D: Move
+Mouse: Aim
+LMB: Shoot
+R: Reload
+Space: Jump
